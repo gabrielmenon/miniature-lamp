@@ -24,6 +24,7 @@ while True:
 
     if(inputMenu<0 or inputMenu>4):
         print("\nComando inválido.");
+        print("---------------------------------");
     
     else:
         if(inputMenu==1):
