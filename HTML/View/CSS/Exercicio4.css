@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:x-large;
+    
+}
+
+div {
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 3%;
+    padding-top: 1%;
+    margin-top: 5%;
+    background-color: rgb(196, 196, 196);
+    border-style:double;
+    border-color: black;
+}
+
+textarea {
+    width: 100%;
+    font-size:small;
+    box-sizing: content-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    resize:none
+    
+    
+    
+
+}
+
+.input1 {
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    width: 100%;
+    font-size:smaller;
+    
+}
+
+.input2 {
+    margin-left: 40%;
+}
+
+body {
+
+    background-image: url(https://wallpaperaccess.com/full/2441903.jpg);
+    background-size: cover;
+}

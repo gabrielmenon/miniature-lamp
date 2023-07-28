@@ -1,0 +1,19 @@
+.container {
+    background-color: rgb(146, 146, 146);
+    background-size: cover;
+    width: 10%;
+    height: 5%;
+    display: flex;
+    align-items: center;
+    border-radius: 100%;
+    margin-left: 22%;
+    border: 100% black;
+    border-style:dashed;
+    padding: 1rem;
+    
+}
+.Metallica{
+    width: 100%;
+    text-align: center;
+}
+
